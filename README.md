@@ -8,3 +8,5 @@ This project facilitates decentralized image upload and sharing on the blockchai
 * __Solidity:__ Smart contract development for ownership and access control.
 * __React:__ Front-end interface for uploading images and managing access.
 * __IPFS:__ Decentralized storage protocol for hosting uploaded images.
+# Contributors
+_Mihika Dakappagari, Final Year Computer Engineer Student at KJ Somaiya College of Engineering, Roll No. 16010120076_
